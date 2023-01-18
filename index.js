@@ -10,7 +10,7 @@ CFonts.say('MultiDevice\nOscar', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`'${package.name}' By @${package.author.name || package.author}`, {
+CFonts.say(`'${DANZZ}' By @${package.author.DANZZ BOT || package.author}`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
